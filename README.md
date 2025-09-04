@@ -72,4 +72,4 @@ http://127.0.0.1:8000/docs
 
 - Preprocessing: Tokenization, vectorization using CountVectorizer, handled via scikit-learn pipeline
 
-- Accuracy: ~85% on test set
+- Accuracy: ~86% on test set
